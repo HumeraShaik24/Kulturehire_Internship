@@ -1,8 +1,8 @@
 # 📊 Internship Project: Understanding Career Aspirations of Gen Z
 
 ## 👩‍💻 Intern: **Humera Shaik**  
-## 📍 Organization: *[Include company/organization name if applicable]*  
-## 🗓️ Duration: *[Insert Internship Period]*
+## 📍 Organization: *Kulturehire*  
+## 🗓️ Duration: *2 Months*
 
 ---
 
@@ -76,16 +76,16 @@ The project aimed to understand *why* these patterns exist and how employers can
   - Salary expectations
   - Personal values and career motivation
 
-### 6. **[Executive Dashboard in Excel](Dashboards/Executive)**
+### 6. **[Executive Dashboard in Excel](Dashboards/Executive.png)**
 - Created a high-level summary dashboard
 - Visualized key KPIs and trends
 - Used slicers, filters, and pivot charts for interactive exploration
 
 ### 7. **Functional Dashboards in Power BI (3 Dashboards)**
 - Developed dashboards for:
-  - [Learning Aspirations of GenZ](Dashboards/Learning)
-  - [Manager Aspirations of GenZ](Dashboards/Manager)
-  - [Mission Aspirations of GenZ](Dashboarde/Mission)
+  - [Learning Aspirations of GenZ](Dashboards/Learning.png)
+  - [Manager Aspirations of GenZ](Dashboards/Manager.png)
+  - [Mission Aspirations of GenZ](Dashboarde/Mission.png)
 - Integrated:
   - Power Query Editor for transformation
   - DAX for calculations
